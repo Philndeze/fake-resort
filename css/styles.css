@@ -2,6 +2,16 @@ body {
   background-image: url("../img/bg.jpg");
 }
 
+#menu {
+  width: 280px;
+  background-color: #1E5DBF88;
+
+}
+
+#textblock {
+  background-color: #1E5DBF88;
+}
+
 img {
   border-style: inset;
   border-width: thick;
@@ -21,9 +31,7 @@ h4, h3, h2 {
   font-family: cursive;
 }
 
-p, a  {
-  display: block;
-  background-color: #1E5DBF88;
+p, a {
   color: white;
   text-shadow: 2px 2px 3px darkblue;
   font-weight: bold;
