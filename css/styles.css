@@ -1,0 +1,31 @@
+body {
+  background-image: url("../img/bg.jpg");
+}
+
+img {
+  border-style: inset;
+  border-width: thick;
+  border-color: #BFE79E;
+}
+
+h1 {
+  display: inline;
+  background-color: #1E5DBF88;
+  color: white;
+  font-family: cursive;
+}
+
+h4, h3, h2 {
+  background-color: #1E5DBF88;
+  color: white;
+  font-family: cursive;
+}
+
+p, a  {
+  display: block;
+  background-color: #1E5DBF88;
+  color: white;
+  text-shadow: 2px 2px 3px darkblue;
+  font-weight: bold;
+  font-size: 20px;
+}
