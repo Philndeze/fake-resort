@@ -1,6 +1,11 @@
+@font-face {
+  font-family: 'beachResort';
+  src: url("../Beach_Resort.woff");
+}
+
 body {
   background-color: #9EF0EC;
-  font-family: beachResort;
+  font-family: 'beachResort';
 }
 
 img {
